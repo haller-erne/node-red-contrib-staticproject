@@ -28,6 +28,10 @@ module for more information).
 
 [ISC](https://opensource.org/licenses/ISC)
 
+# Original code
+
+[Digital Arsenal Github](https://github.com/DigitalArsenal/node-red-contrib-static)
+
 # Contact
 
-[node-red@digitalarsenal.io](mailto:node-red@digitalarsenal.io)
+[ogsadmin@node-red.haller-erne.de](mailto:ogsadmin@node-red.haller-erne.de)
